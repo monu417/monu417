@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=29&duration=4000&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+I'm+Priyanka Kushwaha!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=29&duration=4000&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+I'm+Priyanka!)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/priyanka-kushwaha-2781151a1/">
 
