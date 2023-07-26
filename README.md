@@ -29,9 +29,6 @@
   <a href="https://www.hackerrank.com/kush417p?hr_r=1" target="_blank" >
     <img align="left" src="https://img.shields.io/badge/Hackerrank-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://youtube.com/ProgrammingGuru" target="_blank" >
-    <img align="left" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)"/>
-  </a>
 
   <br>
   <br>
